@@ -24,4 +24,5 @@ Then repeat these steps for all the files contained in the folder for specified 
 
 And that's about it when it comes to this sourcecode functionality ;)
 
+![image](https://github.com/Qudlik/Clud_engineering_2023/assets/92997507/bf7d11fc-d6eb-414a-87ca-99868168ed6f)
 
