@@ -42,11 +42,11 @@ https://filezilla-project.org/
    
  ![image](https://github.com/Qudlik/Clud_engineering_2023/assets/92997507/141ff75b-ffd9-49de-83b6-66fa0a320708)
 
- 6) Build & run your job using
+ 5) Build & run your job using
     
 ![image](https://github.com/Qudlik/Clud_engineering_2023/assets/92997507/10dfd5cd-43e6-472d-96ef-497cc6feed43)
 
-6)Verify the results ;)
+6) Verify the results ;)
 
 
 PS.
