@@ -11,7 +11,7 @@ Since these files are normal text files, just with different extension we need f
 #include <fstream>
 #include <string> 
 
-Since in general case of mult-step Ansys anaysis we may find ourselves with multiple files with the same name but different extensions (.s01, .s02...) which differents each laod step. We need to create a variable, that will iteratively change in loop to modify each file.
+Since in general case of multi-step Ansys anaysis we may find ourselves with multiple files with the same name but different extensions (.s01, .s02...) which differents each laod step. We need to create a variable, that will iteratively change in loop to modify each file.
 For that purpose variable load_name = "Projekt.s0" + to_string(i); is used, that holds the file name (in this example "Projekt" with adequate extenion,
 
 Next it appends /NOPR MAPDL command to the file, which supresses listing this additioanl input, to keep the output file clean.
@@ -38,7 +38,7 @@ Below I will describe how to run this code on a remote machine using Microsoft A
 3) Download and use FileZilla to easily transfer you files to the remote machine:
 https://filezilla-project.org/
 
-4) Creat sunfolder for your job and run g++ compiler
+4) Creat subfolder for your job and run g++ compiler
    
  ![image](https://github.com/Qudlik/Clud_engineering_2023/assets/92997507/141ff75b-ffd9-49de-83b6-66fa0a320708)
 
