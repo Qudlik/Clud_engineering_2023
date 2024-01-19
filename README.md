@@ -30,5 +30,14 @@ And that's about it when it comes to this sourcecode functionality ;)
 
 Below I will describe how to run this code on a remote machine using Microsoft Azure.
 
+1) Go to Microsoft Azure and create Your account:
+ https://portal.azure.com/?Microsoft_Azure_Education_correlationId=147ca5b1-2874-4604-905c-8dcd2b0b1a27&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=398f5502-b3c6-4045-a27b-0f06e54f8c72#home
+
+2) Create a vritrual machine
+
+3) Download and use FileZilla to easily transfer you files to the remote machine
+https://filezilla-project.org/
+
+
 
 
