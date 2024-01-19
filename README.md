@@ -35,8 +35,24 @@ Below I will describe how to run this code on a remote machine using Microsoft A
 
 2) Create a vritrual machine
 
-3) Download and use FileZilla to easily transfer you files to the remote machine
+3) Download and use FileZilla to easily transfer you files to the remote machine:
 https://filezilla-project.org/
+
+4) Creat sunfolder for your job and run g++ compiler
+ ![image](https://github.com/Qudlik/Clud_engineering_2023/assets/92997507/141ff75b-ffd9-49de-83b6-66fa0a320708)
+
+ 5) Build & run your job using
+![image](https://github.com/Qudlik/Clud_engineering_2023/assets/92997507/10dfd5cd-43e6-472d-96ef-497cc6feed43)
+
+6)Verify the results ;)
+
+
+PS.
+If g++ is not installed on your remote machine, u can issue sudo apt install g++ in order to get the right compiler installed.
+
+
+
+
 
 
 
